@@ -1,4 +1,4 @@
-# Icons-Pack
-Icons Pack trial build
+# Icon-Pack
+Icon Pack trial build
 
-It s personal project to build icons pack for all launchers, IDE in progress .
+It s personal project to build icon pack for all launchers, IDE in progress .
