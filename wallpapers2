@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "author": "Epikur Prod",
+      "url": "http://i.imgur.com/oVL7ddQ.jpg",
+      "name": "wallpaper1",
+      "thumbnail": "http://i.imgur.com/oVL7ddQt.jpg"
+    },
+    {
+      "author": "Epikur Prod",
+      "url": "http://i.imgur.com/mTuBXoL.jpg",
+      "name": "wallpaper2",
+      "thumbnail": "http://i.imgur.com/mTuBXoLt.jpg"
+    }
+  ]
+}
